@@ -1,6 +1,10 @@
 # Autosave files
 *~
 
+# Schema folder
+iroha
+IrohaPoint/proto/
+
 # build
 [Oo]bj/
 [Bb]in/

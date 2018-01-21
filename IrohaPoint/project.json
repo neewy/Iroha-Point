@@ -1,10 +1,11 @@
 ﻿{
   "dependencies": {
-    "Grpc": "1.8.0",
-    "Grpc.Tools": "1.8.0",
+    "Google.Protobuf.Tools": "3.5.1",
+    "Grpc": "1.8.3",
+    "Grpc.Tools": "1.8.3",
     "Microsoft.NETCore.Portable.Compatibility": "1.0.1",
-    "NETStandard.Library": "1.6.0",
-    "Xamarin.Forms": "2.5.0.121934"
+    "NETStandard.Library": "2.0.1",
+    "Xamarin.Forms": "2.5.0.122203"
   },
   "frameworks": {
     "netstandard1.5": {}

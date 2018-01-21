@@ -37,6 +37,19 @@
       <DependentUpon>IrohaPointPage.xaml</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="proto\Block.g.cs" />
+    <Compile Include="proto\Commands.g.cs" />
+    <Compile Include="proto\Endpoint.g.cs" />
+    <Compile Include="proto\EndpointGrpc.cs" />
+    <Compile Include="proto\Loader.g.cs" />
+    <Compile Include="proto\LoaderGrpc.cs" />
+    <Compile Include="proto\Ordering.g.cs" />
+    <Compile Include="proto\OrderingGrpc.cs" />
+    <Compile Include="proto\Primitive.g.cs" />
+    <Compile Include="proto\Queries.g.cs" />
+    <Compile Include="proto\Responses.g.cs" />
+    <Compile Include="proto\Yac.g.cs" />
+    <Compile Include="proto\YacGrpc.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="project.json" />
